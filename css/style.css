@@ -1,0 +1,15 @@
+header {
+    background-color: red;
+
+}
+
+p {
+    font-size: 14px;
+    color: slategray;
+
+}
+h1 {
+    text-align: center;
+    color: deeppink;
+    font-weight: bold;
+}
